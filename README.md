@@ -1,6 +1,5 @@
-# IndianRailway OOPS Project 🚆✨
-
-## Overview
+IndianRailway OOPS Project 🚆✨
+# Overview
 This project demonstrates the **four pillars of Object-Oriented Programming (OOPS)** in Java:
 - **Encapsulation**: Private fields with public getters.
 - **Inheritance**: `MaharajasExpress` extends `IndianRail`.
@@ -10,11 +9,8 @@ This project demonstrates the **four pillars of Object-Oriented Programming (OOP
 - **Abstraction**: 
   - Abstract class `maharajaservice` with abstract method `luxsuite()`.
   - Interface `maharajaexpress1` with abstract method `book()`.
-
 This project is designed as a beginner-friendly showcase of OOPS concepts, using the theme of **Indian Railways**.
-
 ---
-
 ## Features
 - Demonstrates **Encapsulation** with ticket and passenger details.
 - Shows **Inheritance** by extending base railway class.
